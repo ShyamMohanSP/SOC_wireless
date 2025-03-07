@@ -20,7 +20,7 @@ Optimization Methods: Implementation of the Limited Memory Bundle Method (LMBM) 
 
 Data: Sample datasets of 2023-24 wind power production and forecasts of 2023-24, and 2024 energy spot-prices from 50Hertz (https://www.50hertz.com).​
 
-Follow the instructions in https://napsu.karmitsa.fi/lmbm/ to install the LMBM driver for MATLAB.
+Main source file to run is ell_adaptive_alg.m. Follow the instructions in https://napsu.karmitsa.fi/lmbm/ to install the LMBM driver for MATLAB.
 
 If you find this repository useful in your research, please cite our paper:​
 
